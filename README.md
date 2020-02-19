@@ -4,22 +4,22 @@
 ### Team Members:
 
 **Katie Taladay**<br>
-<img src="https://github.com/leightonvillanueva/Fetch-KLMT/blob/master/Images/Katie_Taladay.jpg" height="150" width="150">
+<img src="../Images/Katie_Taladay.jpg" height="150" width="150">
 
 Dog Mom 
 
 **Leighton Villanueva**<br>
-<img src= "https://github.com/leightonvillanueva/Fetch-KLMT/blob/master/Images/Leighton_Villanueva.jpg" height="150" width="150">
+<img src= "../Images/Leighton_Villanueva.jpg" height="150" width="150">
 
 Programmer
 
 **Mia Clause**<br>
-<img src= "https://github.com/leightonvillanueva/Fetch-KLMT/blob/master/Images/Mia_Clause.jpg" height="150" width="150">
+<img src= "../Images/Mia_Clause.jpg" height="150" width="150">
 
 ACM/Programmer
 
 **Ty Yamasaki**<br>
-<img src= "https://github.com/leightonvillanueva/Fetch-KLMT/blob/master/Images/Ty_Yamasaki.jpg" height="150" width="150">
+<img src= "../Images/Ty_Yamasaki.jpg" height="150" width="150">
 
 Programmer
 
